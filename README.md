@@ -1,3 +1,6 @@
+# Adebare Adeyemo GHL Portfolio - Next.js
+
+A clean portfolio for GoHighLevel, CRM automation, A2P verification, Voice AI, chatbot integration, email marketing, pipelines, white-label SaaS and website/funnel projects.
 
 ## Local setup
 
